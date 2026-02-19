@@ -1,7 +1,8 @@
 # Atomizer-Steam-Chuff
 Small circuit Using a 5V Humidifier/Atomizer Module to simulate Locomotive Steam Chuff using Track Power
 
-# Steam Chuff Controller Build Guide  (Yes, it was created by AI)
+# Steam Chuff Controller Build Guide  
+   (Yes, it was created by AI)
 
 ## Complete 555-Based Ultrasonic Atomizer Controller for Model Railroads
 
